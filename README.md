@@ -1,2 +1,2 @@
 # blog
-myBlog
+
